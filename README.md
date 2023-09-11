@@ -19,10 +19,11 @@ To get started with HospiHub, follow these steps:
    git clone https://github.com/oussama-gadria/hospihub.git
    
 2. Install dependencies:
+   
    cd hospihub
    npm install
-   ```
-3. Set up the database:
+   
+4. Set up the database:
 
 Create a PostgreSQL database
 Update the database configuration in config/database.js   
